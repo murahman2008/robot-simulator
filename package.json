@@ -1,0 +1,19 @@
+{
+  "name": "robot-simulator",
+  "version": "1.0.0",
+  "description": "- This application is a simulation of a robot moving on a square table top, dimensions 6 x 6 units. - There are no obstructions on the table surface. - The robot is free to move across the table but must be prevented from falling to destruction, and movement that may lead to destruction must be prevented.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murahman2008/robot-simulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murahman2008/robot-simulator/issues"
+  },
+  "homepage": "https://github.com/murahman2008/robot-simulator#readme"
+}
